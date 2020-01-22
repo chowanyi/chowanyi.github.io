@@ -27,9 +27,15 @@
 
 ---
 
+## Education
 
+### Master of Science: Business Analytics (Aug 2019 – Current)
+California State University, East Bay
+- GPA: 4.0
+- Fall 2019 coursework in Data Mining, Database Management and Applications, Quantitative and Technology Fundamental for Analytics (R, Python, Java, SQL)
+- Spring 2020 coursework in Big Data Technology and Applications(Hadoop), Data Warehousing and Business Intelligence, Optimization for Analytics and Data Analytics
 
+### Bachelor of Arts: Communication (Aug 2009 – Aug 2011)
+University of Southern California – Los Angeles, CA
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
