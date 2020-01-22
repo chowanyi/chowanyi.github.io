@@ -1,10 +1,8 @@
 title: Cheuk Yi (Alice) Lau # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Business Analytics Graduate Student 
-  <br><br>
-  Actively seeking 2020 Summer Internship in United States
-  <br><br>
+  Business Analytics Graduate Student<br>
+  Actively seeking 2020 Summer Internship in United States<br>
   <a href="https://www.linkedin.com/in/cyalicelau/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
